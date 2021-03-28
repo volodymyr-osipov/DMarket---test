@@ -1,2 +1,2 @@
-# volodymyr-osipov.github.io
+# DMarket test
 Тестове завдання DMarket
